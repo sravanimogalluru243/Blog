@@ -73,4 +73,6 @@ In the next post, I will explore **how Generative AI works behind the scenes** i
 
 ---
 
-📌 *Thanks for reading. Follow along for more AI concepts explained step by step.*
+📌 Thanks for reading. Connect with me on LinkedIn to follow my AI learning journey and explore AI concepts explained step by step:  
+🔗 https://www.linkedin.com/in/sravani-mogalluru/
+
